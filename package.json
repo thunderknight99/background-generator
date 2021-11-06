@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/thunderknight99/background-generator/issues"
   },
-  "homepage": "https://github.com/thunderknight99/background-generator#readme"
+  "homepage": "https://github.com/thunderknight99/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
